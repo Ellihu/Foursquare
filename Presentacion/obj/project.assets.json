@@ -9770,11 +9770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj",
+      "projectPath": "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\obj\\",
+      "outputPath": "D:\\Github\\Examen\\Foursquare\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9791,14 +9791,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj": {
-              "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj"
+            "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj": {
+              "projectPath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj"
             },
-            "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj"
+            "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj"
             },
-            "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj": {
-              "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj"
+            "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj": {
+              "projectPath": "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj"
             }
           }
         }

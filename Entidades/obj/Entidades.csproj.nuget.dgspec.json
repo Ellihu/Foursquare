@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {}
+    "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
+    "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\obj\\",
+        "outputPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",

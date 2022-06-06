@@ -27,3 +27,16 @@ D:\Github\Pruebas\FoursquarePlaces\Presentacion\Datos\bin\Debug\netcoreapp3.1\Da
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+D:\Github\Examen\Foursquare\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+D:\Github\Examen\Foursquare\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+D:\Github\Examen\Foursquare\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+D:\Github\Examen\Foursquare\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Github\Examen\Foursquare\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+D:\Github\Examen\Foursquare\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

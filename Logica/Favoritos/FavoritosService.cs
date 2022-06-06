@@ -68,15 +68,12 @@ namespace Logica.Favoritos
 
         FavoritosEModel DtoToEmodel(MarkersDTO model)
         {
-            var ranking = _unitOfWork.FavoritosRepository.Get(x => x.Fsq_id == model.Fsq_id).Count();
-
 
             return new FavoritosEModel
             {
                 Fsq_id = model.Fsq_id,
                 Nombre = model.Nombre,
                 Direccion = model.Direccion,
-                Ranking = ranking + 1,
                 Imagen = model.Imagen,
                 Usuario = _userLoggedService.GetUserName(),
                 Categoria = model.Categoria,
@@ -85,6 +82,7 @@ namespace Logica.Favoritos
         }
         public MarkersDTO EModelToDto(FavoritosEModel entity)
         {
+            var ranking = _unitOfWork.FavoritosRepository.Get(x => x.Fsq_id == entity.Fsq_id).Count();
 
             return new MarkersDTO
             {
@@ -92,7 +90,7 @@ namespace Logica.Favoritos
                 Fsq_id = entity.Fsq_id,
                 Nombre = entity.Nombre,
                 Direccion = entity.Direccion,
-                Ranking = entity.Ranking,
+                Ranking = ranking,
                 Imagen = entity.Imagen,
                 Usuario = entity.Usuario,
                 Categoria = entity.Categoria,

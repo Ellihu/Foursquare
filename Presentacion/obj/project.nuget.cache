@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ls6d9YcQxpLqO8O0b+uaC49cKHnolQ8ODL2bACI31ZoZTDrmsb7d4tt0wIJ48MgkWk1KTyl/8oTR5k/WvotjgA==",
+  "dgSpecHash": "393ntP534VntYdSU1NEd8kBC1orNQfnuynBcvJqvC0tyu8QhJVsN3Pw4rR0fbk3mlfY3oAMiKJbcX/a4s54VEQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elihu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elihu\\.nuget\\packages\\documentformat.openxml\\2.8.1\\documentformat.openxml.2.8.1.nupkg.sha512",

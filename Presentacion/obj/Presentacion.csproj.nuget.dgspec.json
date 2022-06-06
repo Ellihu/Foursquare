@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj": {}
+    "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj": {
+    "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj",
+        "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj",
+        "projectPath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\obj\\",
+        "outputPath": "D:\\Github\\Examen\\Foursquare\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
+    "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\obj\\",
+        "outputPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj": {
+    "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj",
+        "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj",
+        "projectPath": "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\obj\\",
+        "outputPath": "D:\\Github\\Examen\\Foursquare\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,11 +164,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj"
               },
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj": {
+    "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj",
+        "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj",
         "projectName": "Presentacion",
-        "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\Presentacion.csproj",
+        "projectPath": "D:\\Github\\Examen\\Foursquare\\Presentacion\\Presentacion.csproj",
         "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Presentacion\\obj\\",
+        "outputPath": "D:\\Github\\Examen\\Foursquare\\Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,14 +250,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj"
               },
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj"
               },
-              "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj": {
-                "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj"
+              "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj": {
+                "projectPath": "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj"
               }
             }
           }

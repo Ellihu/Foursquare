@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5c2JKqPCRAILVB2dIOGWdAcyeIkZaDoHwqA/qGS+b8iB2+r3uC10EMB7CKKDlZHaFBWupeIpmc3v1aBOlN3tg==",
+  "dgSpecHash": "f5jvE0WY8a9Zhaq9gkAJVejWB4gQ4XY5e79Z66kQWH1TIVDs4HoSbD4Eq4PDei2ICxdfcoLIFSo4J3lANixDng==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Logica\\Logica.csproj",
+  "projectFilePath": "D:\\Github\\Examen\\Foursquare\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elihu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elihu\\.nuget\\packages\\documentformat.openxml\\2.8.1\\documentformat.openxml.2.8.1.nupkg.sha512",

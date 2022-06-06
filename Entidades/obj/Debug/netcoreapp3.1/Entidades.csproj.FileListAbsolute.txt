@@ -22,3 +22,13 @@ D:\Github\Pruebas\FoursquarePlaces\Presentacion\Entidades\obj\Debug\netcoreapp3.
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
 D:\Github\Pruebas\FoursquarePlaces\Presentacion\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Github\Examen\Foursquare\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+D:\Github\Examen\Foursquare\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Github\Examen\Foursquare\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+D:\Github\Examen\Foursquare\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

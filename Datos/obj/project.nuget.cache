@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bokcjYODWU3ejWB0YVb6Q7meCtAP0MrS81dnduNpDFrcMZxfi9oWD/oKm/xYNTiEAIst8O8W56ksaZ0SVHukrA==",
+  "dgSpecHash": "+AhZhu4cfT65rkUz/kQtR7kU0AiRFoIgfRxytQ4ESPA3y+oHxiTKKUBv26vBYHGuc//5n9qAC3OSAadKtuPy2Q==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj",
+  "projectFilePath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elihu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elihu\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

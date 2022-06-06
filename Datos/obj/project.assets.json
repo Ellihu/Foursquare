@@ -6168,11 +6168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj",
+      "projectUniqueName": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\Datos.csproj",
+      "projectPath": "D:\\Github\\Examen\\Foursquare\\Datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\elihu\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Datos\\obj\\",
+      "outputPath": "D:\\Github\\Examen\\Foursquare\\Datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elihu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6189,8 +6189,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj"
+            "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Github\\Examen\\Foursquare\\Entidades\\Entidades.csproj"
             }
           }
         }
