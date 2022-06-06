@@ -263,19 +263,51 @@
 
 
                 let htmlDetalle=  `<h4 class="card-title">${currLocation.name}</h4>
-                <label> <strong> Disatancia:</strong> ${currLocation.distance} metros</label><br />
+                <label id="label-distancia" > <strong> Disatancia:</label><br />
                 <label> <strong> Zona horaria:</strong>  ${detalle.timezone} </label><br />
                 <label> <strong>  Dirección:</strong> ${currLocation.location.formatted_address}, ${currLocation.location.country} </label>
                <div id="div-saveMarker"><a href="#" class="link-secondary float-end" onclick="saveFavorito_click('${currLocation.fsq_id}')">  Guardar en favoritos</a></div>`;
                
                 $("#div-detalleMarker").html(htmlDetalle);
-
+                getDistanciaMetros(currLocation.geocodes.main.latitude,currLocation.geocodes.main.longitude)
             }).catch((err) => {
                 console.log(err)
                 $("#div-detalleMarker").html('Sin resultados de ésta ubicación...');
             })
 
       }
+      
+      function getDistanciaMetros(lat2,lon2)
+      {
+              navigator.geolocation.getCurrentPosition((data)=>{
+
+             let currentPosition = {
+                               lat: data.coords.latitude,
+                               lng: data.coords.longitude
+                           }
+
+                           console.log(currentPosition)
+                           console.log(lat2)
+                           console.log(lon2)
+
+                     rad = function(x) {return x*Math.PI/180;}
+                      var R = 6378.137; //Radio de la tierra en km 
+                      var dLat = rad( lat2 - currentPosition.lat );
+                      var dLong = rad( lon2 - currentPosition.lng );
+                      var a = Math.sin(dLat/2) * Math.sin(dLat/2) + Math.cos(rad(currentPosition.lat)) * 
+                      Math.cos(rad(lat2)) * Math.sin(dLong/2) * Math.sin(dLong/2);
+                      var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+                      //aquí obtienes la distancia en metros por la conversion 1Km =1000m
+                      var d = R * c * 1000; 
+
+                        var numberFormat = new Intl.NumberFormat('es-MX');
+                        var formatted =  numberFormat.format(d);
+
+                      $("#label-distancia").html(`<strong> Disatancia:</strong> ${formatted} metros`)
+
+         })
+}
 
 </script>
 
