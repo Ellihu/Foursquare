@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBXjNSS8A1KSFRV4391e7ShuxjuOrl0FOHcDZqU1KZFoFOzjKkIv4rVe3zM49ZTSR68Y9ikiv/vKAmgt+Fje3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Pruebas\\FoursquarePlaces\\Presentacion\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elihu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\elihu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\elihu\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
